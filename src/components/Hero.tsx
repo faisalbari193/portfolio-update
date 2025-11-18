@@ -17,7 +17,7 @@ const Hero = () => {
           <div className="mb-8">
             <div className="w-32 h-32 mx-auto bg-gradient-to-br from-custom-primary to-custom-primary-dark rounded-full flex items-center justify-center text-white text-4xl font-bold shadow-xl overflow-hidden">
               <img
-                src="https://i.postimg.cc/MHjM12qB/20240309-110532.jpg"
+                src="https://i.ibb.co.com/QjHTT5V3/photo-2025-11-18-18-02-53.jpg"
                 alt=""
                 className="rounded-full object-cover w-full h-full"
               />
